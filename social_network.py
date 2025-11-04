@@ -64,5 +64,5 @@ network.print_network()
 # Test your code here
 
 #memo
-#1: A graph is the best way to repesent a stuctured network because is a data structure used to model relationships between entities where connections can be complex and multi-directional. This is saying that graphs allow people to be linked a nobes and also allow relationships to be linked to one another as well. So knowing that people can have muitple friendships, relationships, etc; this is the best set up to find how each one are connected/linked.
-#2: A list or tree wouldn't work because of the type of stucture they have. A list wouln't work because it's linear and can only store people in a sequence. Problem with tha is that we can't see the connection that they or others may have with one another. Now with tree it won't work because it has a single root
+#1: A graph is the best way to represent a structured network because it is a data structure that models relationships between entities, where connections can be complex and multidirectional. This means that graphs allow people to be linked to nodes and enable relationships to be connected. So, knowing that people can have multiple friendships, relationships, etc., this is the best setup to find how each one is connected/linked.
+#2: A list or tree wouldn't work because of their type of structure. A list wouldn't work because it's linear and can only store people sequentially. The problem is that we can't see the connection they or others may have with one another. It won't work with the tree because it has a single root.
